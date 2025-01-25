@@ -2,7 +2,7 @@
 window.Config = {
 
   // 站点名
-  SiteName: '凛空の小屋 服务器状态监控',
+  SiteName: 'ian的伺服器狀態',
 
   // 站点链接
   SiteUrl: '/',
@@ -10,11 +10,11 @@ window.Config = {
   // UptimeRobot Api Keys
   // 支持 Monitor-Specific 和 Read-Only 两只 Api Key
   ApiKeys: [
-    'ur1004328-7deb9fc4df464fb1d9674772',
+    'ur1935369-a3e9663106e3ed19184aef31',
   ],
 
   // 是否显示监测站点的链接
-  ShowLink: false,
+  ShowLink: true,
 
   // 日志天数
   // 虽然免费版说仅保存60天日志，但测试好像API可以获取90天的
@@ -24,12 +24,12 @@ window.Config = {
   // 导航栏菜单
   Navi: [
     {
-      text: '晓空blog',
-      url: 'https://blog.moeworld.tech/'
+      text: 'ian的blog',
+      url: 'https://jusoyi0405.serv00.net'
     },
     {
-      text: '关于',
-      url: 'https://about.moeworld.top/'
+      text: 'ian的AList',
+      url: 'http://ianip.eu.org'
     }
   ]
 };
