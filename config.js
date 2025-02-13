@@ -14,7 +14,7 @@ window.Config = {
   ],
 
   // 是否显示监测站点的链接
-  ShowLink: false,
+  ShowLink: true,
 
   // 日志天数
   // 虽然免费版说仅保存60天日志，但测试好像API可以获取90天的
@@ -25,7 +25,7 @@ window.Config = {
   Navi: [
     {
       text: 'ian的blog',
-      url: 'https://jusoyi0405.serv00.net'
+      url: 'http://148.100.77.208:8090'
     },
     {
       text: 'ian的AList',
